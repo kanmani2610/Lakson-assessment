@@ -1,5 +1,4 @@
 Banking Products Dashboard
-A simple banking products dashboard inspired by Standard Chartered Bank's website. 
 It allows users to browse banking products, search by name, filter by category and view product details.
 ----------------------------------------------------------------------------------------
 Features
